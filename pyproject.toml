@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "keep-in-touch"
+version = "0.1.0"
+description = ""
+authors = ["Maksym <150614204+MaksElkapalka@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.2"
+prompt-toolkit = "3.0.43"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
